@@ -1,0 +1,68 @@
+body{
+	font-family: FreeMono, monospace;
+	font-size: 17px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+header{
+	height: 600px;
+	padding-top: 400px;
+	background-color: #2F4F4F;
+	color: white;
+	text-align: center;
+	font-family: FreeMono, monospace;
+
+}
+
+footer{
+	height: 300px;
+	padding-top: 140px;
+	padding-bottom: 30px;
+	background-color: #2F4F4F;
+	color: white;
+	text-align: center;
+}
+
+ h1{
+ 	font-size: 60px;
+ 	font-weight: normal;
+ 	text-align: center;
+ }
+
+
+ section{
+	width: 100%;
+	min-height: 400px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+p{
+	text-align: center;
+}
+
+.compact{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1100px;
+}
+
+.passions img{
+	width: 280px;
+	height: 280px;
+	padding: 0px 5px 20px;
+}
+
+.images img{
+	width: 70px;
+	height: 50px;
+	padding: 0px 5px 20px;
+}
+
+.images2 img{
+	width: 70px;
+	height: 50px;
+	padding: 0px 5px;
+}
